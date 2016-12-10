@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+jqueryAjax_Get(${1:url},${2:successFunc},${3:errorFunc},${4:failFunc});
+]]>
+</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>ajaxGet</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

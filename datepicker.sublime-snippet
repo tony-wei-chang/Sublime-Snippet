@@ -1,0 +1,14 @@
+<snippet>
+	<content>
+<![CDATA[
+//設定語言選項
+\$.datetimepicker.setLocale('zh');
+//產生日期選擇
+\$("#${1}").datetimepicker({scrollInput:false,timepicker:false,format:'Y-m-d'});
+]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>datetimepicker</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>

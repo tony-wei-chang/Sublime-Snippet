@@ -1,0 +1,12 @@
+<snippet>
+	<content><![CDATA[
+//Loading Mask
+var loadingMask = Loading_Mask.Initialize();
+loadingMask.setTarget('${1}');
+loadingMask.show();
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>loading</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.js</scope>
+</snippet>
