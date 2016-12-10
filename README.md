@@ -1,2 +1,2 @@
-# sublime-snippet
-sublime 快捷鍵檔案
+# Sublime-Snippet
+Sublime 快捷鍵檔案
